@@ -1,0 +1,411 @@
+.header-top p i {
+    color: #00cdcd;
+}
+.header-top .social-icons i:hover {
+    color: #00cdcd;
+}
+.middle-header-top .middle-info .logo:after {
+    border-right: 10px solid #00cdcd;
+}
+.middle-header-top .middle-info p {
+    border-right: 1px solid #00cdcd;
+}
+.middle-header-top .middle-info p i {
+    color: #00cdcd;
+}
+.heading {
+    color: #00cdcd;
+    border-top: 1px solid #00cdcd;
+    border-bottom: 1px solid #00cdcd;
+}
+.search-button,
+.button-menu {
+    color: #00cdcd;
+}
+.search-button {
+    color: #00cdcd;
+}
+.get-quote {
+    background: #00cdcd;
+}
+#main-menu ul li a.active,
+#main-menu ul li a:hover {
+        background: #00cdcd;
+}
+#main-menu .dropdown-menu a:hover {
+    background: #00cdcd;
+}
+.bloq-search input[type="text"] {
+    border: 1px solid #00cdcd;
+}
+.bloq-search input[type="submit"] {
+    background: #00cdcd;
+}
+#main-menu ul a:hover,
+#main-menu ul li.active a {
+    color: #00cdcd;
+}
+.tp-leftarrow:hover {
+    background: #00cdcd;
+}
+.tp-rightarrow:hover {
+    background: #00cdcd;
+}
+.bg-1 {
+    background: #00cdcd;
+}
+.bg-2 .button {
+    border-color: #00cdcd;
+}
+.bg-3 .button {
+    color: #00cdcd;
+    border-color: #00cdcd;
+}
+.bg-3 .button:hover {
+    border-color: #00cdcd;
+}
+.button--wayra.button--inverted:hover {
+    border-color: #00cdcd;
+}
+.button--wayra:hover::before {
+    background-color: #00cdcd;
+}
+.button--wayra.button--inverted:hover::before {
+    background-color: #00cdcd;
+}
+.info-about .fa {
+	color: #00cdcd;
+}
+.info-about .fa:hover {
+	background: #00cdcd;
+}
+.info-about .cel-1 {
+	background: #00cdcd;
+}
+.info-about .cel-2 {
+	background: #00cdcd;
+}
+.info-about .cel-3 {
+	background: #00cdcd;
+}
+.info-about .cel-4 {
+	background: #00cdcd;
+}
+.choosing {
+    background: #fff;
+}
+.choosing .why-do a:hover {
+    color: #00cdcd;
+}
+.serv-flex {
+    color: #00cdcd;
+}
+main.services-2 {
+    background: #f9f9f9;
+}
+.hovblue figure {
+    background: #00cdcd;
+}
+.offer-details .btn.rdmorebtn:hover{background: #000;transition: all 0.4s ease-in-out 0s;}
+.offer-inner{position:relative;overflow:hidden;margin-bottom: 00px;}
+.offer-details {
+	background-color: rgba(0, 205, 205, 0.9);
+}
+section.counterup {
+	padding: 6rem 0;
+	background: linear-gradient(rgba(32, 51, 100, 0.9), rgba(32, 51, 100, 0.9)), url(bg-counter.jpg) no-repeat center center;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+}
+.counterup .title-icon:before {
+    background: #00cdcd;
+}
+.counterup .title-icon:after {
+    background: #00cdcd;
+}
+.counterup .title-style h2,
+.counterup .title-style p {
+	color: #00cdcd;
+}
+.counterup .countr .fa {
+	border: 4px solid #00cdcd;
+}
+.counterup .countr p {
+	color: #00cdcd;
+}
+.counterup .title-style span {
+    color: #fff;
+}
+.portfolio .filters-group ul li:hover {
+    background: #00cdcd;
+}
+.portfolio .filters-group .active {
+    background: #00cdcd;
+}
+.single-portfolio .img-poppu:hover:before,
+.single-portfolio .img-poppu:hover:after {
+    background: #00cdcd;
+}
+.single-portfolio .portfolio-img::before {
+    background: #00cdcd none repeat scroll 0 0;
+}
+.team-content {
+	background: #00cdcd;
+}
+.team-info {
+	background: #00cdcd;
+}
+.team-content span a:hover {
+    color: #00cdcd;
+}
+.request .btn {
+    background: #00cdcd;
+}
+.request .contact-form input[type="text"]:focus,
+.request .contact-form input[type="email"]:focus,
+.request .contact-form textarea:focus {
+    border-color: #00cdcd;
+}
+.request h3::after,
+.report h2::after {
+    background-color: #00cdcd;
+}
+.call-info h3::after {
+    background-color: #00cdcd;
+}
+.testimonials .test-1 p::before {
+    color: #00cdcd;
+}
+.testimonials .test-1 p::after {
+    color: #00cdcd;
+}
+.testimonials .test-1 h3 {
+    color: #00cdcd;
+}
+.owl-dot.active {
+    background: #00cdcd;
+}
+.single-blog-post .img-box .overlay {
+    background: rgba(0, 205, 205, 0.8);
+}
+.blog .blog-info {
+    border-bottom: 3px solid #00cdcd;
+}
+.blog-pots figure {
+    background: #00cdcd;
+}
+.blog .blog-pots .fa {
+    color: #00cdcd;
+}
+.btn-secondary {
+    background: #00cdcd;
+}
+.first-footer .netabout h3::after {
+    background-color: #00cdcd;
+}
+.first-footer .contactus h3::after {
+    background-color: #00cdcd;
+}
+.first-footer .widget h3::after {
+    background-color: #00cdcd;
+}
+.first-footer .newsletters h3::after {
+    background-color: #00cdcd;
+}
+.first-footer .email input[type="submit"]:hover {
+    background: #00cdcd;
+}
+.go-up {
+    background: #00cdcd;
+}
+div.partners,
+div.partners-1 {
+    background: #00cdcd;
+}
+.section-title .title-style h2 {
+    color: #00cdcd;
+}
+.title-icon:before {
+    background: #00cdcd;
+}
+.title-icon:after {
+    background: #00cdcd;
+}
+.title-icon i {
+    color: #00cdcd;
+}
+.inner-pages .who-we-are .who-1 h2 span {
+    color: #00cdcd;
+}
+.team-info {
+	background: #00cdcd !important;  
+}
+.inner-pages .panel .panel-heading a {
+    background: #00cdcd;
+}
+.pricing .tables .price-head {
+	background: #00cdcd;
+}
+.container .standard {
+	background: #00cdcd;
+}
+.inner-pages .top-headings h2 {
+    color: #00cdcd;
+}
+.inner-pages .port-info .btn {
+    background: #00cdcd;
+}
+.inner-pages .widget-service-details ul li.active {
+    background: #00cdcd;
+}
+.inner-pages .depar-title {
+    background: #00cdcd;
+}
+.inner-pages .depart-list {
+    border-bottom: 1px solid #00cdcd;
+}
+.inner-pages .depart-list ul li .fa {
+    color: #00cdcd;
+}
+.inner-pages .business-service .tags a {
+    background: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .business-service .tags a:hover {
+    color: #00cdcd;
+}
+.inner-pages .business-service ul li a:hover {
+    color: #00cdcd;
+}
+.inner-pages .widget-service-details h5::after {
+    background-color: #00cdcd;
+}
+.inner-pages .opening-hours .opening .fa {
+    color: #00cdcd;
+}
+.inner-pages .opening-list ul li {
+    border-bottom:  1px dotted #00cdcd;
+}
+.inner-pages .service-details h3::after {
+    background-color: #00cdcd;
+}
+.wprt-image-video .icon-wrap {
+    background-color: #00cdcd;
+}
+.inner-pages .portfolio .filters-group .active {
+    background: #00cdcd;
+}
+.page-item.active .page-link {
+    background: #00cdcd;
+    border-color: #00cdcd;
+}
+.page-link:hover {
+    background: #00cdcd;
+}
+.inner-pages .form-control {
+    border: 1px solid #00cdcd;
+}
+.inner-pages .input-group-btn .btn-primary {
+    background: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .input-group-btn .btn-primary:hover {
+    color: #00cdcd;
+}
+.inner-pages .recent-post .tags a {
+    background: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .recent-post .tags a:hover {
+    color: #00cdcd;
+}
+.inner-pages .recent-post ul li a:hover {
+    color: #00cdcd;
+}
+.inner-pages .widget h5::after {
+    background-color: #00cdcd;
+}
+.inner-pages .comments-info h5 {
+    color: #00cdcd;
+}
+.inner-pages .comments h3::after,
+.inner-pages .leve-comments h3::after {
+    background-color: #00cdcd;
+}
+.inner-pages .leve-comments .btn {
+    background: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .leve-comments .btn:hover {
+    color: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .contact-us .btn {
+    background: #00cdcd;
+    border: 1px solid #00cdcd;
+}
+.inner-pages .contact-us .btn:hover {
+    border: 1px solid #00cdcd;
+}
+.inner-pages .request h3::after {
+    background-color: #00cdcd;
+}
+.inner-pages .call-info h3::after {
+    background-color: #00cdcd;
+}
+.inner-pages .call-info ul li .fa {
+    color: #00cdcd;
+}
+.team-content span a:hover {
+    color: #fff;
+}
+.who-we-are h2 {
+    color: #00cdcd;
+}
+.inf-row .who-info-4 .fa {
+    color: #00cdcd;
+}
+.sec-title-4 h2 {
+    color: #00cdcd;
+}
+.heading-5 .search-button {
+    color: #00cdcd;
+}
+.heading-5 .bloq-search input[type="submit"] {
+    background: #00cdcd;
+}
+.heading-5 .get-quote {
+    background: #00cdcd;
+}
+.heading-5 #main-menu ul li a.active {
+    background: #00cdcd;
+}
+.heading-5 #main-menu ul li a:hover {
+    background: #00cdcd;
+}
+.counterup .title-style h2 {
+	color: #00cdcd !important;
+}
+.heading-6 .search-button {
+    color: #00cdcd;
+}
+.heading-6 .bloq-search input[type="submit"] {
+    background: #00cdcd;
+}
+.heading-6 .get-quote {
+    background: #00cdcd;
+}
+.heading-6 #main-menu ul li a.active {
+    background: #00cdcd;
+}
+.heading-6 #main-menu ul li a:hover {
+    background: #00cdcd;
+}
+.headings h2,
+.headings-6 h2 {
+    color: #00cdcd;
+}
+.sec-title h2 {
+    color: #00cdcd !important;
+}

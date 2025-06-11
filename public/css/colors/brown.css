@@ -1,0 +1,401 @@
+.header-top p i {
+    color: #fff;
+}
+.header-top .social-icons i:hover {
+    color: #3a2c5f;
+}
+.middle-header-top .middle-info .logo:after {
+    border-right: 10px solid #3a2c5f;
+}
+.middle-header-top .middle-info p {
+    border-right: 1px solid #3a2c5f;
+}
+.middle-header-top .middle-info p i {
+    color: #3a2c5f;
+}
+.heading {
+    color: #3a2c5f;
+    border-top: 1px solid #3a2c5f;
+    border-bottom: 1px solid #3a2c5f;
+}
+.search-button,
+.button-menu {
+    color: #3a2c5f;
+}
+.search-button {
+    color: #3a2c5f;
+}
+.get-quote {
+    background: #3a2c5f;
+}
+#main-menu ul li a.active,
+#main-menu ul li a:hover {
+        background: #3a2c5f;
+}
+#main-menu .dropdown-menu a:hover {
+    background: #3a2c5f;
+}
+.bloq-search input[type="text"] {
+    border: 1px solid #3a2c5f;
+}
+.bloq-search input[type="submit"] {
+    background: #3a2c5f;
+}
+#main-menu ul a:hover,
+#main-menu ul li.active a {
+    color: #3a2c5f;
+}
+.tp-leftarrow:hover {
+    background: #3a2c5f;
+}
+.tp-rightarrow:hover {
+    background: #3a2c5f;
+}
+.bg-1 {
+    background: #3a2c5f;
+}
+.bg-2 .button {
+    border-color: #3a2c5f;
+}
+.bg-3 .button {
+    color: #3a2c5f;
+    border-color: #3a2c5f;
+}
+.bg-3 .button:hover {
+    border-color: #3a2c5f;
+}
+.button--wayra.button--inverted:hover {
+    border-color: #3a2c5f;
+}
+.button--wayra:hover::before {
+    background-color: #3a2c5f;
+}
+.button--wayra.button--inverted:hover::before {
+    background-color: #3a2c5f;
+}
+.info-about .fa {
+	color: #3a2c5f;
+}
+.info-about .fa:hover {
+	background: #3a2c5f;
+}
+.info-about .cel-1 {
+	background: #3a2c5f;
+}
+.info-about .cel-2 {
+	background: #3a2c5f;
+}
+.info-about .cel-3 {
+	background: #3a2c5f;
+}
+.info-about .cel-4 {
+	background: #3a2c5f;
+}
+.choosing {
+    background: #fff;
+}
+.choosing .why-do a:hover {
+    color: #3a2c5f;
+}
+.serv-flex {
+    color: #3a2c5f;
+}
+main.services-2 {
+    background: #f9f9f9;
+}
+.hovblue figure {
+    background: #3a2c5f;
+}
+.offer-details .btn.rdmorebtn:hover{background: #000;transition: all 0.4s ease-in-out 0s;}
+.offer-inner{position:relative;overflow:hidden;margin-bottom: 00px;}
+.offer-details {
+	background-color: rgba(152, 118, 84, 0.9);
+}
+section.counterup {
+	padding: 6rem 0;
+	background: linear-gradient(rgba(32, 51, 100, 0.9), rgba(32, 51, 100, 0.9)), url(bg-counter.jpg) no-repeat center center;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+}
+.counterup .title-icon:before {
+    background: #3a2c5f;
+}
+.counterup .title-icon:after {
+    background: #3a2c5f;
+}
+.counterup .title-style h2,
+.counterup .title-style p {
+	color: #3a2c5f;
+}
+.counterup .countr .fa {
+	border: 4px solid #3a2c5f;
+}
+.counterup .countr p {
+	color: #3a2c5f;
+}
+.counterup .title-style span {
+    color: #fff;
+}
+.portfolio .filters-group ul li:hover {
+    background: #3a2c5f;
+}
+.portfolio .filters-group .active {
+    background: #3a2c5f;
+}
+.single-portfolio .img-poppu:hover:before,
+.single-portfolio .img-poppu:hover:after {
+    background: #3a2c5f;
+}
+.single-portfolio .portfolio-img::before {
+    background: #3a2c5f none repeat scroll 0 0;
+}
+.team-content {
+	background: #3a2c5f;
+}
+.team-info {
+	background: #3a2c5f;
+}
+.team-content span a:hover {
+    color: #3a2c5f;
+}
+.request .btn {
+    background: #3a2c5f;
+}
+.request .contact-form input[type="text"]:focus,
+.request .contact-form input[type="email"]:focus,
+.request .contact-form textarea:focus {
+    border-color: #3a2c5f;
+}
+.request h3::after,
+.report h2::after {
+    background-color: #3a2c5f;
+}
+.call-info h3::after {
+    background-color: #3a2c5f;
+}
+.testimonials .test-1 p::before {
+    color: #3a2c5f;
+}
+.testimonials .test-1 p::after {
+    color: #3a2c5f;
+}
+.testimonials .test-1 h3 {
+    color: #3a2c5f;
+}
+.owl-dot.active {
+    background: #3a2c5f;
+}
+.single-blog-post .img-box .overlay {
+    background: rgba(152, 118, 84, 0.8);
+}
+.blog .blog-info {
+    border-bottom: 3px solid #3a2c5f;
+}
+.blog-pots figure {
+    background: #3a2c5f;
+}
+.blog .blog-pots .fa {
+    color: #3a2c5f;
+}
+.btn-secondary {
+    background: #3a2c5f;
+}
+.first-footer .netabout h3::after {
+    background-color: #3a2c5f;
+}
+.first-footer .contactus h3::after {
+    background-color: #3a2c5f;
+}
+.first-footer .widget h3::after {
+    background-color: #3a2c5f;
+}
+.first-footer .newsletters h3::after {
+    background-color: #3a2c5f;
+}
+.first-footer .email input[type="submit"]:hover {
+    background: #3a2c5f;
+}
+.go-up {
+    background: #3a2c5f;
+}
+div.partners,
+div.partners-1 {
+    background: #3a2c5f;
+}
+.partners .style2 img {
+    background: #fff;
+    width: 100px;
+    border-radius: 10px;
+}
+.section-title .title-style h2 {
+    color: #3a2c5f;
+}
+.title-icon:before {
+    background: #3a2c5f;
+}
+.title-icon:after {
+    background: #3a2c5f;
+}
+.title-icon i {
+    color: #3a2c5f;
+}
+.inner-pages .who-we-are .who-1 h2 span {
+    color: #3a2c5f;
+}
+.team-info {
+	background: #3a2c5f !important;  
+}
+.inner-pages .panel .panel-heading a {
+    background: #3a2c5f;
+}
+.pricing .tables .price-head {
+	background: #3a2c5f;
+}
+.container .standard {
+	background: #3a2c5f;
+}
+.inner-pages .top-headings h2 {
+    color: #3a2c5f;
+}
+.inner-pages .port-info .btn {
+    background: #3a2c5f;
+}
+.inner-pages .widget-service-details ul li.active {
+    background: #3a2c5f;
+}
+.inner-pages .depar-title {
+    background: #3a2c5f;
+}
+.inner-pages .depart-list {
+    border-bottom: 1px solid #3a2c5f;
+}
+.inner-pages .depart-list ul li .fa {
+    color: #3a2c5f;
+}
+.inner-pages .business-service .tags a {
+    background: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .business-service .tags a:hover {
+    color: #3a2c5f;
+}
+.inner-pages .business-service ul li a:hover {
+    color: #3a2c5f;
+}
+.inner-pages .widget-service-details h5::after {
+    background-color: #3a2c5f;
+}
+.inner-pages .opening-hours .opening .fa {
+    color: #3a2c5f;
+}
+.inner-pages .opening-list ul li {
+    border-bottom:  1px dotted #3a2c5f;
+}
+.inner-pages .service-details h3::after {
+    background-color: #3a2c5f;
+}
+.wprt-image-video .icon-wrap {
+    background-color: #3a2c5f;
+}
+.inner-pages .portfolio .filters-group .active {
+    background: #3a2c5f;
+}
+.page-item.active .page-link {
+    background: #3a2c5f;
+    border-color: #3a2c5f;
+}
+.page-link:hover {
+    background: #3a2c5f;
+}
+.inner-pages .form-control {
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .input-group-btn .btn-primary {
+    background: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .input-group-btn .btn-primary:hover {
+    color: #3a2c5f;
+}
+.inner-pages .recent-post .tags a {
+    background: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .recent-post .tags a:hover {
+    color: #3a2c5f;
+}
+.inner-pages .recent-post ul li a:hover {
+    color: #3a2c5f;
+}
+.inner-pages .widget h5::after {
+    background-color: #3a2c5f;
+}
+.inner-pages .comments-info h5 {
+    color: #3a2c5f;
+}
+.inner-pages .comments h3::after,
+.inner-pages .leve-comments h3::after {
+    background-color: #3a2c5f;
+}
+.inner-pages .leve-comments .btn {
+    background: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .leve-comments .btn:hover {
+    color: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .contact-us .btn {
+    background: #3a2c5f;
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .contact-us .btn:hover {
+    border: 1px solid #3a2c5f;
+}
+.inner-pages .request h3::after {
+    background-color: #3a2c5f;
+}
+.inner-pages .call-info h3::after {
+    background-color: #3a2c5f;
+}
+.inner-pages .call-info ul li .fa {
+    color: #3a2c5f;
+}
+.team-content span a:hover {
+    color: #fff;
+}
+.who-we-are h2 {
+    color: #3a2c5f;
+}
+.inf-row .who-info-4 .fa {
+    color: #3a2c5f;
+}
+.sec-title-4 h2 {
+    color: #3a2c5f;
+}
+.heading-5 .search-button {
+    color: #3a2c5f;
+}
+.heading-5 .bloq-search input[type="submit"] {
+    background: #3a2c5f;
+}
+.heading-5 .get-quote {
+    background: #3a2c5f;
+}
+.heading-5 #main-menu ul li a.active {
+    background: #3a2c5f;
+}
+.heading-5 #main-menu ul li a:hover {
+    background: #3a2c5f;
+}
+.counterup .title-style h2 {
+	color: #3a2c5f !important;
+}
+.headings h2,
+.headings-6 h2 {
+    color: #3a2c5f;
+}
+.sec-title h2 {
+    color: #3a2c5f !important;
+}

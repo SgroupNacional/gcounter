@@ -1,0 +1,416 @@
+.header-top p i {
+    color: #1ABC9C;
+}
+.header-top .social-icons i:hover {
+    color: #1ABC9C;
+}
+.middle-header-top .middle-info .logo:after {
+    border-right: 10px solid #1ABC9C;
+}
+.middle-header-top .middle-info p {
+    border-right: 1px solid #1ABC9C;
+}
+.middle-header-top .middle-info p i {
+    color: #1ABC9C;
+}
+.heading {
+    color: #1ABC9C;
+    border-top: 1px solid #1ABC9C;
+    border-bottom: 1px solid #1ABC9C;
+}
+.search-button,
+.button-menu {
+    color: #1ABC9C;
+}
+.search-button {
+    color: #1ABC9C;
+}
+.get-quote {
+    background: #1ABC9C;
+}
+#main-menu ul li a.active,
+#main-menu ul li a:hover {
+        background: #1ABC9C;
+}
+#main-menu .dropdown-menu a:hover {
+    background: #1ABC9C;
+}
+.bloq-search input[type="text"] {
+    border: 1px solid #1ABC9C;
+}
+.bloq-search input[type="submit"] {
+    background: #1ABC9C;
+}
+#main-menu ul a:hover,
+#main-menu ul li.active a {
+    color: #1ABC9C;
+}
+.tp-leftarrow:hover {
+    background: #1ABC9C;
+}
+.tp-rightarrow:hover {
+    background: #1ABC9C;
+}
+.bg-1 {
+    background: #1ABC9C;
+}
+.bg-2 .button {
+    border-color: #1ABC9C;
+}
+.bg-3 .button {
+    color: #1ABC9C;
+    border-color: #1ABC9C;
+}
+.bg-3 .button:hover {
+    border-color: #1ABC9C;
+}
+.button--wayra.button--inverted:hover {
+    border-color: #1ABC9C;
+}
+.button--wayra:hover::before {
+    background-color: #1ABC9C;
+}
+.button--wayra.button--inverted:hover::before {
+    background-color: #1ABC9C;
+}
+.info-about .fa {
+	color: #1ABC9C;
+}
+.info-about .fa:hover {
+	background: #1ABC9C;
+}
+.info-about .cel-1 {
+	background: #1ABC9C;
+}
+.info-about .cel-2 {
+	background: #1ABC9C;
+}
+.info-about .cel-3 {
+	background: #1ABC9C;
+}
+.info-about .cel-4 {
+	background: #1ABC9C;
+}
+.choosing {
+    background: #fff;
+}
+.choosing .why-do a:hover {
+    color: #1ABC9C;
+}
+.serv-flex {
+    color: #1ABC9C;
+}
+main.services-2 {
+    background: #f9f9f9;
+}
+.hovblue figure {
+    background: #1ABC9C;
+}
+.offer-details .btn.rdmorebtn:hover{background: #000;transition: all 0.4s ease-in-out 0s;}
+.offer-inner{position:relative;overflow:hidden;margin-bottom: 00px;}
+.offer-details {
+	background-color: rgba(26, 188, 156, 0.9);
+}
+section.counterup {
+	padding: 6rem 0;
+	background: linear-gradient(rgba(32, 51, 100, 0.9), rgba(32, 51, 100, 0.9)), url(bg-counter.jpg) no-repeat center center;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+}
+.counterup .title-icon:before {
+    background: #1ABC9C;
+}
+.counterup .title-icon:after {
+    background: #1ABC9C;
+}
+.counterup .title-style h2,
+.counterup .title-style p {
+	color: #1ABC9C;
+}
+.counterup .countr .fa {
+	border: 4px solid #1ABC9C;
+}
+.counterup .countr p {
+	color: #1ABC9C;
+}
+.counterup .title-style span {
+    color: #fff;
+}
+.portfolio .filters-group ul li:hover {
+    background: #1ABC9C;
+}
+.portfolio .filters-group .active {
+    background: #1ABC9C;
+}
+.single-portfolio .img-poppu:hover:before,
+.single-portfolio .img-poppu:hover:after {
+    background: #1ABC9C;
+}
+.single-portfolio .portfolio-img::before {
+    background: #1ABC9C none repeat scroll 0 0;
+}
+.team-content {
+	background: #1ABC9C;
+}
+.team-info {
+	background: #1ABC9C;
+}
+.team-content span a:hover {
+    color: #1ABC9C;
+}
+.request .btn {
+    background: #1ABC9C;
+}
+.request .contact-form input[type="text"]:focus,
+.request .contact-form input[type="email"]:focus,
+.request .contact-form textarea:focus {
+    border-color: #1ABC9C;
+}
+.request h3::after,
+.report h2::after {
+    background-color: #1ABC9C;
+}
+.call-info h3::after {
+    background-color: #1ABC9C;
+}
+.testimonials .test-1 p::before {
+    color: #1ABC9C;
+}
+.testimonials .test-1 p::after {
+    color: #1ABC9C;
+}
+.testimonials .test-1 h3 {
+    color: #1ABC9C;
+}
+.owl-dot.active {
+    background: #1ABC9C;
+}
+.single-blog-post .img-box .overlay {
+    background: rgba(26, 188, 156, 0.8);
+}
+.blog .blog-info {
+    border-bottom: 3px solid #1ABC9C;
+}
+.blog-pots figure {
+    background: #1ABC9C;
+}
+.blog .blog-pots .fa {
+    color: #1ABC9C;
+}
+.btn-secondary {
+    background: #1ABC9C;
+}
+.first-footer .netabout h3::after {
+    background-color: #1ABC9C;
+}
+.first-footer .contactus h3::after {
+    background-color: #1ABC9C;
+}
+.first-footer .widget h3::after {
+    background-color: #1ABC9C;
+}
+.first-footer .newsletters h3::after {
+    background-color: #1ABC9C;
+}
+.first-footer .email input[type="submit"]:hover {
+    background: #1ABC9C;
+}
+.go-up {
+    background: #1ABC9C;
+}
+div.partners,
+div.partners-1 {
+    background: #1ABC9C;
+}
+.section-title .title-style h2 {
+    color: #1ABC9C;
+}
+.title-icon:before {
+    background: #1ABC9C;
+}
+.title-icon:after {
+    background: #1ABC9C;
+}
+.title-icon i {
+    color: #1ABC9C;
+}
+.inner-pages .who-we-are .who-1 h2 span {
+    color: #1ABC9C;
+}
+.team-info {
+	background: #1ABC9C !important;  
+}
+.inner-pages .panel .panel-heading a {
+    background: #1ABC9C;
+}
+.pricing .tables .price-head {
+	background: #1ABC9C;
+}
+.container .standard {
+	background: #1ABC9C;
+}
+.inner-pages .top-headings h2 {
+    color: #1ABC9C;
+}
+.inner-pages .port-info .btn {
+    background: #1ABC9C;
+}
+.inner-pages .widget-service-details ul li.active {
+    background: #1ABC9C;
+}
+.inner-pages .depar-title {
+    background: #1ABC9C;
+}
+.inner-pages .depart-list {
+    border-bottom: 1px solid #1ABC9C;
+}
+.inner-pages .depart-list ul li .fa {
+    color: #1ABC9C;
+}
+.inner-pages .business-service .tags a {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .business-service .tags a:hover {
+    color: #1ABC9C;
+}
+.inner-pages .business-service ul li a:hover {
+    color: #1ABC9C;
+}
+.inner-pages .widget-service-details h5::after {
+    background-color: #1ABC9C;
+}
+.inner-pages .opening-hours .opening .fa {
+    color: #1ABC9C;
+}
+.inner-pages .opening-list ul li {
+    border-bottom:  1px dotted #1ABC9C;
+}
+.inner-pages .service-details h3::after {
+    background-color: #1ABC9C;
+}
+.wprt-image-video .icon-wrap {
+    background-color: #1ABC9C;
+}
+.inner-pages .portfolio .filters-group .active {
+    background: #1ABC9C;
+}
+.page-item.active .page-link {
+    background: #1ABC9C;
+    border-color: #1ABC9C;
+}
+.page-link:hover {
+    background: #1ABC9C;
+}
+.inner-pages .form-control {
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .input-group-btn .btn-primary {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .input-group-btn .btn-primary:hover {
+    color: #1ABC9C;
+}
+.inner-pages .recent-post .tags a {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .recent-post .tags a:hover {
+    color: #1ABC9C;
+}
+.inner-pages .recent-post ul li a:hover {
+    color: #1ABC9C;
+}
+.inner-pages .widget h5::after {
+    background-color: #1ABC9C;
+}
+.inner-pages .comments-info h5 {
+    color: #1ABC9C;
+}
+.inner-pages .comments h3::after,
+.inner-pages .leve-comments h3::after {
+    background-color: #1ABC9C;
+}
+.inner-pages .leve-comments .btn {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .leve-comments .btn:hover {
+    color: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .contact-us .btn {
+    background: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .contact-us .btn:hover {
+    border: 1px solid #1ABC9C;
+}
+.inner-pages .request h3::after {
+    background-color: #1ABC9C;
+}
+.inner-pages .call-info h3::after {
+    background-color: #1ABC9C;
+}
+.inner-pages .call-info ul li .fa {
+    color: #1ABC9C;
+}
+.team-content span a:hover {
+    color: #fff;
+}
+.who-we-are h2 {
+    color: #1ABC9C;
+}
+.inf-row .who-info-4 .fa {
+    color: #1ABC9C;
+}
+.sec-title-4 h2 {
+    color: #1ABC9C;
+}
+.heading-5 .search-button {
+    color: #1ABC9C;
+}
+.heading-5 .bloq-search input[type="submit"] {
+    background: #1ABC9C;
+}
+.heading-5 .get-quote {
+    background: #1ABC9C;
+}
+.heading-5 #main-menu ul li a.active {
+    background: #1ABC9C;
+}
+.heading-5 #main-menu ul li a:hover {
+    background: #1ABC9C;
+}
+.counterup .title-style h2 {
+	color: #1ABC9C !important;
+}
+.heading-6 .search-button {
+    color: #1ABC9C;
+}
+.heading-6 .bloq-search input[type="submit"] {
+    background: #1ABC9C;
+}
+.heading-6 .get-quote {
+    background: #1ABC9C;
+}
+.heading-6 #main-menu ul li a.active {
+    background: #1ABC9C;
+}
+.heading-6 #main-menu ul li a:hover {
+    background: #1ABC9C;
+}
+.headings h2,
+.headings-6 h2 {
+    color: #1ABC9C;
+}
+.partners .style2 img {
+    background: #fff;
+    width: 100px;
+    border-radius: 10px;
+}
+.sec-title h2 {
+    color: #1ABC9C !important;
+}

@@ -1,0 +1,411 @@
+.header-top p i {
+    color: #e54242;
+}
+.header-top .social-icons i:hover {
+    color: #e54242;
+}
+.middle-header-top .middle-info .logo:after {
+    border-right: 10px solid #e54242;
+}
+.middle-header-top .middle-info p {
+    border-right: 1px solid #e54242;
+}
+.middle-header-top .middle-info p i {
+    color: #e54242;
+}
+.heading {
+    color: #e54242;
+    border-top: 1px solid #e54242;
+    border-bottom: 1px solid #e54242;
+}
+.search-button,
+.button-menu {
+    color: #e54242;
+}
+.search-button {
+    color: #e54242;
+}
+.get-quote {
+    background: #e54242;
+}
+#main-menu ul li a.active,
+#main-menu ul li a:hover {
+        background: #e54242;
+}
+#main-menu .dropdown-menu a:hover {
+    background: #e54242;
+}
+.bloq-search input[type="text"] {
+    border: 1px solid #e54242;
+}
+.bloq-search input[type="submit"] {
+    background: #e54242;
+}
+#main-menu ul a:hover,
+#main-menu ul li.active a {
+    color: #e54242;
+}
+.tp-leftarrow:hover {
+    background: #e54242;
+}
+.tp-rightarrow:hover {
+    background: #e54242;
+}
+.bg-1 {
+    background: #e54242;
+}
+.bg-2 .button {
+    border-color: #e54242;
+}
+.bg-3 .button {
+    color: #e54242;
+    border-color: #e54242;
+}
+.bg-3 .button:hover {
+    border-color: #e54242;
+}
+.button--wayra.button--inverted:hover {
+    border-color: #e54242;
+}
+.button--wayra:hover::before {
+    background-color: #e54242;
+}
+.button--wayra.button--inverted:hover::before {
+    background-color: #e54242;
+}
+.info-about .fa {
+	color: #e54242;
+}
+.info-about .fa:hover {
+	background: #e54242;
+}
+.info-about .cel-1 {
+	background: #e54242;
+}
+.info-about .cel-2 {
+	background: #e54242;
+}
+.info-about .cel-3 {
+	background: #e54242;
+}
+.info-about .cel-4 {
+	background: #e54242;
+}
+.choosing {
+    background: #fff;
+}
+.choosing .why-do a:hover {
+    color: #e54242;
+}
+.serv-flex {
+    color: #e54242;
+}
+main.services-2 {
+    background: #f9f9f9;
+}
+.hovblue figure {
+    background: #e54242;
+}
+.offer-details .btn.rdmorebtn:hover{background: #000;transition: all 0.4s ease-in-out 0s;}
+.offer-inner{position:relative;overflow:hidden;margin-bottom: 00px;}
+.offer-details {
+	background-color: rgba(229, 66, 66, 0.9);
+}
+section.counterup {
+	padding: 6rem 0;
+	background: linear-gradient(rgba(32, 51, 100, 0.9), rgba(32, 51, 100, 0.9)), url(bg-counter.jpg) no-repeat center center;
+	background-attachment: fixed;
+	color: #fff;
+	text-align: center;
+}
+.counterup .title-icon:before {
+    background: #e54242;
+}
+.counterup .title-icon:after {
+    background: #e54242;
+}
+.counterup .title-style h2,
+.counterup .title-style p {
+	color: #e54242;
+}
+.counterup .countr .fa {
+	border: 4px solid #e54242;
+}
+.counterup .countr p {
+	color: #e54242;
+}
+.counterup .title-style span {
+    color: #fff;
+}
+.portfolio .filters-group ul li:hover {
+    background: #e54242;
+}
+.portfolio .filters-group .active {
+    background: #e54242;
+}
+.single-portfolio .img-poppu:hover:before,
+.single-portfolio .img-poppu:hover:after {
+    background: #e54242;
+}
+.single-portfolio .portfolio-img::before {
+    background: #e54242 none repeat scroll 0 0;
+}
+.team-content {
+	background: #e54242;
+}
+.team-info {
+	background: #e54242;
+}
+.team-content span a:hover {
+    color: #e54242;
+}
+.request .btn {
+    background: #e54242;
+}
+.request .contact-form input[type="text"]:focus,
+.request .contact-form input[type="email"]:focus,
+.request .contact-form textarea:focus {
+    border-color: #e54242;
+}
+.request h3::after,
+.report h2::after {
+    background-color: #e54242;
+}
+.call-info h3::after {
+    background-color: #e54242;
+}
+.testimonials .test-1 p::before {
+    color: #e54242;
+}
+.testimonials .test-1 p::after {
+    color: #e54242;
+}
+.testimonials .test-1 h3 {
+    color: #e54242;
+}
+.owl-dot.active {
+    background: #e54242;
+}
+.single-blog-post .img-box .overlay {
+    background: rgba(229, 66, 66, 0.8);
+}
+.blog .blog-info {
+    border-bottom: 3px solid #e54242;
+}
+.blog-pots figure {
+    background: #e54242;
+}
+.blog .blog-pots .fa {
+    color: #e54242;
+}
+.btn-secondary {
+    background: #e54242;
+}
+.first-footer .netabout h3::after {
+    background-color: #e54242;
+}
+.first-footer .contactus h3::after {
+    background-color: #e54242;
+}
+.first-footer .widget h3::after {
+    background-color: #e54242;
+}
+.first-footer .newsletters h3::after {
+    background-color: #e54242;
+}
+.first-footer .email input[type="submit"]:hover {
+    background: #e54242;
+}
+.go-up {
+    background: #e54242;
+}
+div.partners,
+div.partners-1 {
+    background: #e54242;
+}
+.section-title .title-style h2 {
+    color: #e54242;
+}
+.title-icon:before {
+    background: #e54242;
+}
+.title-icon:after {
+    background: #e54242;
+}
+.title-icon i {
+    color: #e54242;
+}
+.inner-pages .who-we-are .who-1 h2 span {
+    color: #e54242;
+}
+.team-info {
+	background: #e54242 !important;  
+}
+.inner-pages .panel .panel-heading a {
+    background: #e54242;
+}
+.pricing .tables .price-head {
+	background: #e54242;
+}
+.container .standard {
+	background: #e54242;
+}
+.inner-pages .top-headings h2 {
+    color: #e54242;
+}
+.inner-pages .port-info .btn {
+    background: #e54242;
+}
+.inner-pages .widget-service-details ul li.active {
+    background: #e54242;
+}
+.inner-pages .depar-title {
+    background: #e54242;
+}
+.inner-pages .depart-list {
+    border-bottom: 1px solid #e54242;
+}
+.inner-pages .depart-list ul li .fa {
+    color: #e54242;
+}
+.inner-pages .business-service .tags a {
+    background: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .business-service .tags a:hover {
+    color: #e54242;
+}
+.inner-pages .business-service ul li a:hover {
+    color: #e54242;
+}
+.inner-pages .widget-service-details h5::after {
+    background-color: #e54242;
+}
+.inner-pages .opening-hours .opening .fa {
+    color: #e54242;
+}
+.inner-pages .opening-list ul li {
+    border-bottom:  1px dotted #e54242;
+}
+.inner-pages .service-details h3::after {
+    background-color: #e54242;
+}
+.wprt-image-video .icon-wrap {
+    background-color: #e54242;
+}
+.inner-pages .portfolio .filters-group .active {
+    background: #e54242;
+}
+.page-item.active .page-link {
+    background: #e54242;
+    border-color: #e54242;
+}
+.page-link:hover {
+    background: #e54242;
+}
+.inner-pages .form-control {
+    border: 1px solid #e54242;
+}
+.inner-pages .input-group-btn .btn-primary {
+    background: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .input-group-btn .btn-primary:hover {
+    color: #e54242;
+}
+.inner-pages .recent-post .tags a {
+    background: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .recent-post .tags a:hover {
+    color: #e54242;
+}
+.inner-pages .recent-post ul li a:hover {
+    color: #e54242;
+}
+.inner-pages .widget h5::after {
+    background-color: #e54242;
+}
+.inner-pages .comments-info h5 {
+    color: #e54242;
+}
+.inner-pages .comments h3::after,
+.inner-pages .leve-comments h3::after {
+    background-color: #e54242;
+}
+.inner-pages .leve-comments .btn {
+    background: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .leve-comments .btn:hover {
+    color: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .contact-us .btn {
+    background: #e54242;
+    border: 1px solid #e54242;
+}
+.inner-pages .contact-us .btn:hover {
+    border: 1px solid #e54242;
+}
+.inner-pages .request h3::after {
+    background-color: #e54242;
+}
+.inner-pages .call-info h3::after {
+    background-color: #e54242;
+}
+.inner-pages .call-info ul li .fa {
+    color: #e54242;
+}
+.team-content span a:hover {
+    color: #fff;
+}
+.who-we-are h2 {
+    color: #e54242;
+}
+.inf-row .who-info-4 .fa {
+    color: #e54242;
+}
+.sec-title-4 h2 {
+    color: #e54242;
+}
+.heading-5 .search-button {
+    color: #e54242;
+}
+.heading-5 .bloq-search input[type="submit"] {
+    background: #e54242;
+}
+.heading-5 .get-quote {
+    background: #e54242;
+}
+.heading-5 #main-menu ul li a.active {
+    background: #e54242;
+}
+.heading-5 #main-menu ul li a:hover {
+    background: #e54242;
+}
+.counterup .title-style h2 {
+	color: #e54242 !important;
+}
+.heading-6 .search-button {
+    color: #e54242;
+}
+.heading-6 .bloq-search input[type="submit"] {
+    background: #e54242;
+}
+.heading-6 .get-quote {
+    background: #e54242;
+}
+.heading-6 #main-menu ul li a.active {
+    background: #e54242;
+}
+.heading-6 #main-menu ul li a:hover {
+    background: #e54242;
+}
+.headings h2,
+.headings-6 h2 {
+    color: #e54242;
+}
+.sec-title h2 {
+    color: #e54242 !important;
+}
